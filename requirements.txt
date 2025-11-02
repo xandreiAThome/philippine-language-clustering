@@ -1,0 +1,9 @@
+pandas
+numpy
+rapidfuzz
+unidecode
+tqdm
+matplotlib
+seaborn
+epitran
+panphon

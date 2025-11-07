@@ -9,3 +9,4 @@ epitran
 panphon
 scipy
 scikit-learn
+geopy

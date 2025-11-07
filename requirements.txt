@@ -7,3 +7,5 @@ matplotlib
 seaborn
 epitran
 panphon
+scipy
+scikit-learn
